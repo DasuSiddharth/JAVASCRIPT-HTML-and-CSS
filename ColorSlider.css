@@ -1,0 +1,12 @@
+canvas{
+ background-color:grey;
+border:1px solid black;
+height:100pt;
+weidth:200pt;
+}
+.green{
+  background-color:#7CFC00;
+}
+.white{
+  background-color:ghostwhite;
+}
