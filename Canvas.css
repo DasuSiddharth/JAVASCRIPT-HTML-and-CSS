@@ -1,0 +1,18 @@
+canvas{
+  border:1px solid black;
+  height :100pt;
+  width: 200pt;
+  margin:10px;
+}
+
+.yellowback{
+  background-color:yellow;
+ 
+}
+.greenback{
+  background-color:#7CFC00;
+ 
+}
+.purpleback{
+background-color:purple;}
+.pinkback{background-color:DeepPink;}
