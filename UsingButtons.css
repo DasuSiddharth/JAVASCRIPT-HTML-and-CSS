@@ -1,0 +1,32 @@
+h1{
+  font-family:arial;
+  color:blueviolet;
+  
+}
+
+div{
+  font-size:16pt;
+  margin:10pt;
+  border:1px solid aqua;
+  width:130px;
+  padding: 6pt;
+}
+#div1{
+  background-color: powderblue;
+}
+#div2{
+background-color: Bisque;
+}
+#but
+{
+  font-size:17pt;
+ background-color:hotPink;
+}
+#but2
+{
+font-size:17pt;
+background-color:yellow;}
+#demo
+{
+  font-size:18pt;
+}
