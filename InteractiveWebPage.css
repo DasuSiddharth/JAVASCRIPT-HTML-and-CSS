@@ -1,0 +1,32 @@
+.background{
+  background-color:LavenderBlush;
+  border: 2px solid lightpink;
+}
+.grey{
+  background-color:DarkKhaki;
+  width:180px;
+  margin:10pt;
+  font-size:16pt;
+  font-family:arial;
+  
+}
+.darkgrey{background-color:DarkGrey;
+  width:180px;
+  margin:10pt;
+  font-size:16pt;
+  font-family:arial;
+  
+}
+.gay1{background-color:Coral;
+  width:180px;
+  margin:10pt;
+  font-size:16pt;
+  font-family:arial;
+}
+.gay2{background-color:LawnGreen;
+  width:180px;
+  margin:10pt;
+  font-size:16pt;
+  font-family:arial;
+}  
+  
