@@ -1,0 +1,39 @@
+body{
+  background-color:peachpuff;
+}
+.topdiv{
+  border-top-style:solid;
+  border-bottom-style:solid;
+  border-color:PaleVioletRed;
+  border-width: 2px;
+  padding-left: 10px;
+
+  text-align: center;
+}
+.subtitle{
+ font-size:1.3em;
+}
+.movie{
+  background-color: AliceBlue;
+  border: solid;
+  border-width: 1px;
+  border-color: CornflowerBlue;
+  
+  border-radius: 25px;
+}
+.callme{
+  font-size:1.2em;
+}
+ 
+.show{
+  background-color: salmon;
+  border:solid;
+  border-radius:25px;
+}
+  img {
+  width: 30em;
+  border: solid;
+  border-width: 4px;
+  border-color: #24DEF3;
+}
+
